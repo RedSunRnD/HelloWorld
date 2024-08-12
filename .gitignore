@@ -1,11 +1,11 @@
+*.iml
+.idea/
 ### IntelliJ IDEA ###
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
 
 ### Eclipse ###
-*.iml
-.idea
 .apt_generated
 .classpath
 .factorypath
